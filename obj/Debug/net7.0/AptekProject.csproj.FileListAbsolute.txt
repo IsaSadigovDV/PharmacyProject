@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\bin\Debug\net7.0\AptekProject.exe
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\bin\Debug\net7.0\AptekProject.deps.json
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\bin\Debug\net7.0\AptekProject.runtimeconfig.json
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\bin\Debug\net7.0\AptekProject.dll
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\bin\Debug\net7.0\AptekProject.pdb
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\obj\Debug\net7.0\AptekProject.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\obj\Debug\net7.0\AptekProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\obj\Debug\net7.0\AptekProject.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\obj\Debug\net7.0\AptekProject.AssemblyInfo.cs
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\obj\Debug\net7.0\AptekProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\obj\Debug\net7.0\AptekProject.dll
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\obj\Debug\net7.0\refint\AptekProject.dll
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\obj\Debug\net7.0\AptekProject.pdb
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\obj\Debug\net7.0\AptekProject.genruntimeconfig.cache
+C:\Users\HP\source\repos\TaskEmployee\AptekProject\obj\Debug\net7.0\ref\AptekProject.dll
